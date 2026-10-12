@@ -31,7 +31,7 @@ window.APP_ENVIRONMENTS = {
     path: "",
   },
   production: {
-    url: "",
+    url: "https://cdn.jsdelivr.net/gh/Smile-POS/cdn-project-cloud-reward@v1.0.1/project/js/",
     version: "",
     path: "",
   },
